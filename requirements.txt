@@ -1,0 +1,9 @@
+diversipy==0.8
+doepy==0.0.1
+numpy==1.22.4
+pandas==1.4.2
+pyDOE==0.3.8
+python-dateutil==2.8.2
+pytz==2022.1
+scipy==1.8.1
+six==1.16.0
